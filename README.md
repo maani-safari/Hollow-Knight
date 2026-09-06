@@ -1,16 +1,12 @@
 # Hollow Knight
 
-<p align="center">
-  <strong>A 2D Metroidvania fan game inspired by Hollow Knight</strong>
-  <br>
-  Built with Java, LibGDX & LWJGL3
-</p>
+**A 2D Metroidvania fan game inspired by Hollow Knight**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square" alt="Java">
-  <img src="https://img.shields.io/badge/LibGDX-1.14.2-red?style=flat-square" alt="LibGDX">
-  <img src="https://img.shields.io/badge/LWJGL3-3.4.1%2B-blue?style=flat-square" alt="LWJGL3">
-</p>
+Built with **Java, LibGDX & LWJGL3**
+
+![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square)
+![LibGDX](https://img.shields.io/badge/LibGDX-1.14.2-red?style=flat-square)
+![LWJGL3](https://img.shields.io/badge/LWJGL3-3.3.1-blue?style=flat-square)
 
 ---
 
@@ -20,32 +16,23 @@
 
 Explore interconnected rooms, fight enemies with the Nail, collect and equip charms, use Soul abilities, interact with NPCs, and challenge the **False Knight** in a dedicated boss arena.
 
-The project brings together platforming, combat, progression, UI, save management, achievements, and Tiled-based level design into a complete playable experience.
+The project combines platforming, combat, progression, UI, save management, achievements, and Tiled-based level design into a complete playable experience.
 
 ---
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/screenshots/main-menu.png" width="80%" alt="Main Menu">
-</p>
+### Main Menu
 
-<p align="center">
-  <em>Main Menu</em>
-</p>
+![Main Menu](assets/screenshots/main-menu.png)
 
-<br>
+### Gameplay
 
-<p align="center">
-  <img src="assets/screenshots/gameplay.png" width="48%" alt="Gameplay">
-  <img src="assets/screenshots/boss-fight.png" width="48%" alt="False Knight Boss Fight">
-</p>
+![Gameplay](assets/screenshots/gameplay.png)
 
-<p align="center">
-  <em>Gameplay</em>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>False Knight Boss Fight</em>
-</p>
+### False Knight Boss Fight
+
+![False Knight Boss Fight](assets/screenshots/boss-fight.png)
 
 ---
 
@@ -121,33 +108,33 @@ The game follows a short adventure across two hand-crafted Tiled maps.
 
 Default bindings can be changed through **Options** where supported.
 
-| Action                  |     Key     |
-| :---------------------- | :---------: |
-| Move                    |   `←` `→`   |
-| Aim / Vertical Movement |   `↑` `↓`   |
-| Jump                    |     `Z`     |
-| Nail Attack             |     `X`     |
-| Dash                    |     `C`     |
-| Focus / Heal            |     `A`     |
-| Vengeful Spirit         |     `F`     |
-| Howling Wraiths         |     `V`     |
-| Inventory               |     `I`     |
-| Interact                |     `E`     |
-| Advance Dialogue        |   `Enter`   |
-| Pause                   |    `Esc`    |
+| Action                  | Key         |
+| ----------------------- | ----------- |
+| Move                    | `←` `→`     |
+| Aim / Vertical Movement | `↑` `↓`     |
+| Jump                    | `Z`         |
+| Nail Attack             | `X`         |
+| Dash                    | `C`         |
+| Focus / Heal            | `A`         |
+| Vengeful Spirit         | `F`         |
+| Howling Wraiths         | `V`         |
+| Inventory               | `I`         |
+| Interact                | `E`         |
+| Advance Dialogue        | `Enter`     |
+| Pause                   | `Esc`       |
 | Quick Save / Load       | `F5` / `F9` |
 
 ### Debug Controls
 
 Hold `Left Ctrl` while using the following keys:
 
-| Debug Action      |     Key     |
-| :---------------- | :---------: |
+| Debug Action      | Key         |
+| ----------------- | ----------- |
 | Emergency Revive  | `Caps Lock` |
-| Boss Teleport     |     `B`     |
-| God Mode On / Off |  `G` / `H`  |
-| Fill Soul         |     `S`     |
-| Noclip On / Off   |  `Q` / `E`  |
+| Boss Teleport     | `B`         |
+| God Mode On / Off | `G` / `H`   |
+| Fill Soul         | `S`         |
+| Noclip On / Off   | `Q` / `E`   |
 
 ---
 
@@ -156,7 +143,7 @@ Hold `Left Ctrl` while using the following keys:
 The codebase follows a **Model–View–Controller (MVC)** style structure under `io.github.HollowKnight`.
 
 | Layer          | Responsibility                                                                  |
-| :------------- | :------------------------------------------------------------------------------ |
+| -------------- | ------------------------------------------------------------------------------- |
 | **Model**      | Knight, enemies, world, rooms, charms, saves, settings, achievements, particles |
 | **View**       | Screens, renderers, HUD, dialogue, menus                                        |
 | **Controller** | Input, combat, spells, boss AI, NPC interaction, save flow, events              |
@@ -200,10 +187,11 @@ HollowKnight/
 ├── assets/              # Maps, textures, atlases, audio and UI
 ├── core/                # Shared game logic
 ├── lwjgl3/              # Desktop launcher and packaging
-├── dist/                # Runnable JAR
 ├── gradle/              # Gradle wrapper
-├── build.gradle
-├── settings.gradle
+├── build.gradle         # Gradle build configuration
+├── settings.gradle      # Gradle project settings
+├── gradlew              # Gradle wrapper (Unix)
+├── gradlew.bat          # Gradle wrapper (Windows)
 └── README.md
 ```
 
@@ -212,7 +200,7 @@ HollowKnight/
 ## 🛠️ Technology Stack
 
 | Technology        | Purpose              |
-| :---------------- | :------------------- |
+| ----------------- | -------------------- |
 | **Java 25**       | Programming language |
 | **LibGDX 1.14.2** | Game framework       |
 | **LWJGL3**        | Desktop backend      |
@@ -226,13 +214,23 @@ HollowKnight/
 
 ### Requirements
 
-* **JDK 25+**
+* **JDK 25**
 
-### Build
+### Download
+
+A pre-built playable JAR is available in the project's **[Releases](../../releases)** section.
+
+Download `HollowKnight.jar` from the latest release and run:
+
+```bash
+java -jar HollowKnight.jar
+```
+
+### Build from Source
 
 **Windows**
 
-```bash
+```powershell
 gradlew.bat lwjgl3:jar
 ```
 
@@ -250,8 +248,16 @@ dist/HollowKnight.jar
 
 ### Run from Source
 
-```bash
+**Windows**
+
+```powershell
 gradlew.bat lwjgl3:run
+```
+
+**Linux / macOS**
+
+```bash
+./gradlew lwjgl3:run
 ```
 
 ### Run the Packaged Game
