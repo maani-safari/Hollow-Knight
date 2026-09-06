@@ -307,8 +307,12 @@ A built-in guide introduces the game's main systems, including:
 
 ## ❤️ Credits
 
+This project was developed as an **Academic Programming (AP) course project**.
+
 Inspired by **Hollow Knight** by Team Cherry.
 
 Built with **LibGDX**, **LWJGL**, and **gdx-liftoff**.
 
-> An unofficial fan-made project inspired by Hollow Knight.
+> An unofficial educational fan project inspired by Hollow Knight.
+> This project is not affiliated with or endorsed by Team Cherry.
+
