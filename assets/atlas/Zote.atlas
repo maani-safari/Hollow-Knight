@@ -1,0 +1,214 @@
+
+Zote.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Attack
+  rotate: false
+  xy: 2, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 2, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 353, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Attack
+  rotate: false
+  xy: 2, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 3
+Fall
+  rotate: false
+  xy: 353, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Fall
+  rotate: false
+  xy: 2, 190
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+Fall
+  rotate: false
+  xy: 353, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Fall
+  rotate: false
+  xy: 2, 2
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 3
+Fall
+  rotate: false
+  xy: 353, 190
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 4
+Get Up
+  rotate: false
+  xy: 353, 2
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+
+Zote2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Get Up
+  rotate: false
+  xy: 2, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+Get Up
+  rotate: false
+  xy: 2, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Get Up
+  rotate: false
+  xy: 353, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 3
+Idle
+  rotate: false
+  xy: 2, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Idle
+  rotate: false
+  xy: 353, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+Idle
+  rotate: false
+  xy: 2, 190
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Idle
+  rotate: false
+  xy: 353, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 3
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 4
+Roll
+  rotate: false
+  xy: 353, 190
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Roll
+  rotate: false
+  xy: 353, 2
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+
+Zote3.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Roll
+  rotate: false
+  xy: 2, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Talk
+  rotate: false
+  xy: 2, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Talk
+  rotate: false
+  xy: 353, 754
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1
+Talk
+  rotate: false
+  xy: 2, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 2
+Talk
+  rotate: false
+  xy: 353, 566
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 3
+Talk
+  rotate: false
+  xy: 2, 190
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 4
+Turn
+  rotate: false
+  xy: 353, 378
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 0
+Turn
+  rotate: false
+  xy: 2, 2
+  size: 349, 186
+  orig: 349, 186
+  offset: 0, 0
+  index: 1

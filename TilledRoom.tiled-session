@@ -1,0 +1,332 @@
+{
+    "activeFile": "assets/room-test.tmx",
+    "expandedProjectPaths": [
+        "assets",
+        "lwjgl3/build/resources",
+        "assets/HollowKnight/Slider",
+        "lwjgl3/build/resources/main",
+        "lwjgl3/build",
+        "assets/HollowKnight/VerticalScroller",
+        ".",
+        "lwjgl3"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "assets/BreakableWall.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/FG_eggs_04_0001_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/GreenSpikes.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "assets/b_egg.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/bbbeggg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/bg_arch.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/bg_bea.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/bg_egg.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/cd_BG_egg_04.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.33
+        },
+        "assets/cd_archway_04_r.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/cd_big_roof_0004_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/cd_wall_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/cd_wall_04.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/crossroads_door.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/door.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/egg.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/floorCrossRoads.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/floor_FG_rock_04_0005_01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0046_Layer-301.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0054_Layer-288.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0064_Layer-294_lamp_full.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0080_Layer-273.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0084_c.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0096_Layer-261.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fung_new_0117_Layer-265.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/fung_pillar_wall_0001_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fungd_spikes_01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/fungd_spikes_06.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/grass.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/greenspike.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "assets/peace.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/platform.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "assets/room-test.tmx": {
+            "expandedObjectLayers": [
+                8,
+                5,
+                10,
+                7,
+                4
+            ],
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1108,
+                "y": 2786
+            }
+        },
+        "assets/room.tmx": {
+            "expandedObjectLayers": [
+                4,
+                11,
+                5
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 8752,
+                "y": 4298
+            }
+        },
+        "assets/room2.tmx": {
+            "expandedObjectLayers": [
+                5,
+                3,
+                10,
+                2
+            ],
+            "scale": 0.125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3088,
+                "y": 2844
+            }
+        },
+        "assets/room2.tmx#fung_new_0054_Layer-288": {
+            "scaleInDock": 1
+        },
+        "assets/slug_floor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/smalleggs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/spikes.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/spikes_still.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/vine_platform_01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lwjgl3/build/resources/main/BreakableWall.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/FG_eggs_04_0001_03.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/bg_arch.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/bg_bea.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/cd_BG_egg_04.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/cd_archway_04_r.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/cd_big_roof_0004_03.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/cd_wall_01.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/cd_wall_04.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/crossroads_door.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/egg.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/floorCrossRoads.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/floor_FG_rock_04_0005_01.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/peace.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/platform.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/room.tmx": {
+            "scale": 0.4453125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5230.035087719298,
+                "y": 2588.0701754385964
+            }
+        },
+        "lwjgl3/build/resources/main/smalleggs.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/spikes.tsx": {
+            "scaleInDock": 1
+        },
+        "lwjgl3/build/resources/main/spikes_still.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.imagePath": "E:/daneshgah/AP/Project/assets/HollowKnight/Architecture & Environment/Grass & Vines",
+    "map.height": 2000,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 3000,
+    "openFiles": [
+        "assets/room2.tmx",
+        "assets/room-test.tmx",
+        "assets/fungd_spikes_01.tsx",
+        "assets/fungd_spikes_06.tsx",
+        "assets/grass.tsx"
+    ],
+    "project": "TilledRoom.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "assets/room2.tmx",
+        "assets/grass.tsx",
+        "assets/fungd_spikes_06.tsx",
+        "assets/fungd_spikes_01.tsx",
+        "assets/room-test.tmx",
+        "assets/greenspike.tsx",
+        "assets/fung_new_0096_Layer-261.tsx",
+        "assets/fung_new_0064_Layer-294_lamp_full.tsx",
+        "assets/room.tmx",
+        "assets/fung_new_0084_c.tsx",
+        "assets/fung_new_0080_Layer-273.tsx",
+        "assets/fung_new_0046_Layer-301.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    },
+    "tileset.type": 1
+}

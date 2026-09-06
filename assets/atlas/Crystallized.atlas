@@ -1,0 +1,201 @@
+
+Guardian.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Death Air
+  rotate: false
+  xy: 2, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 0
+Death Air
+  rotate: false
+  xy: 2, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+Death Air
+  rotate: false
+  xy: 289, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Death Land
+  rotate: false
+  xy: 2, 384
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Evade
+  rotate: false
+  xy: 289, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 0
+Shoot
+  rotate: false
+  xy: 289, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 5
+Evade
+  rotate: false
+  xy: 576, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+Evade
+  rotate: false
+  xy: 2, 193
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Evade
+  rotate: false
+  xy: 289, 384
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 3
+Evade
+  rotate: false
+  xy: 576, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 6
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 0
+Idle
+  rotate: false
+  xy: 289, 193
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+Idle
+  rotate: false
+  xy: 576, 384
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Idle
+  rotate: false
+  xy: 289, 2
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 3
+Run
+  rotate: false
+  xy: 576, 193
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 0
+Run
+  rotate: false
+  xy: 576, 2
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+
+Guardian2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Run
+  rotate: false
+  xy: 2, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Run
+  rotate: false
+  xy: 2, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 3
+Run
+  rotate: false
+  xy: 289, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 4
+Run
+  rotate: false
+  xy: 2, 384
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 5
+Shoot
+  rotate: false
+  xy: 289, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+Shoot
+  rotate: false
+  xy: 289, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 4
+Shoot
+  rotate: false
+  xy: 576, 766
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2
+Shoot
+  rotate: false
+  xy: 2, 193
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 3
+Shoot
+  rotate: false
+  xy: 289, 384
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 6
+Turn
+  rotate: false
+  xy: 576, 575
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 1
+Turn
+  rotate: false
+  xy: 2, 2
+  size: 285, 189
+  orig: 285, 189
+  offset: 0, 0
+  index: 2

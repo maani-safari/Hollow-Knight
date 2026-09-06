@@ -1,0 +1,131 @@
+
+Spells.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+SoulScream
+  rotate: false
+  xy: 2, 618
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 0
+SoulScream
+  rotate: false
+  xy: 2, 310
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 1
+SoulScream
+  rotate: false
+  xy: 336, 618
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 2
+SoulScream
+  rotate: false
+  xy: 2, 2
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 3
+SoulScream
+  rotate: false
+  xy: 336, 310
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 4
+SoulScream
+  rotate: false
+  xy: 670, 618
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 5
+SoulScream
+  rotate: false
+  xy: 336, 2
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 6
+SoulScream
+  rotate: false
+  xy: 670, 310
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 7
+SoulScream
+  rotate: false
+  xy: 670, 2
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 8
+
+Spells2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+SoulBall
+  rotate: false
+  xy: 336, 473
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: 0
+SoulBall
+  rotate: false
+  xy: 670, 781
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: 1
+SoulBall
+  rotate: false
+  xy: 336, 328
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: 2
+SoulBall
+  rotate: false
+  xy: 670, 636
+  size: 317, 143
+  orig: 317, 143
+  offset: 0, 0
+  index: 3
+SoulScream
+  rotate: false
+  xy: 2, 618
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 9
+SoulScream
+  rotate: false
+  xy: 2, 310
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 10
+SoulScream
+  rotate: false
+  xy: 336, 618
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 11
+SoulScream
+  rotate: false
+  xy: 2, 2
+  size: 332, 306
+  orig: 332, 306
+  offset: 0, 0
+  index: 12

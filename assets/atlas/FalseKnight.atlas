@@ -1,0 +1,649 @@
+
+FalseKnight.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Attack Antic
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Attack Antic
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Attack Antic
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+Attack Antic
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Attack Antic
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 5
+
+FalseKnight2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Attack Antic
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Attack Recover
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Attack Recover
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+
+FalseKnight3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Attack Recover
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Attack Recover
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Attack Recover
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+
+FalseKnight4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Attack
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Attack
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Attack
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+
+FalseKnight5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Body
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Body
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+
+FalseKnight6.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Body
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Body
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+DeathFall
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+
+FalseKnight7.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathFall
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+DeathFall
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+DeathHit
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+
+FalseKnight8.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathHit
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+DeathHit
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+DeathLand
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+
+FalseKnight9.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathLand
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+DeathLand
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+DeathLand
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+
+FalseKnight10.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathLand
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+DeathLand
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 5
+Stun Recover
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+DeathLand
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 6
+
+FalseKnight11.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathLand
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 7
+DeathLand
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 8
+DeathLand
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 9
+
+FalseKnight12.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DeathLand
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 10
+Idle
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+
+FalseKnight13.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Idle
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Idle
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Idle
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+
+FalseKnight14.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Jump Attack
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Jump Attack
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Jump Attack
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+
+FalseKnight15.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Jump Attack
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Jump Attack
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+Jump Attack
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 5
+
+FalseKnight16.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Jump
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Jump Attack
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 6
+Jump Attack
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 7
+
+FalseKnight17.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Jump
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Jump
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Jump
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Land
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Land
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+
+FalseKnight18.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Land
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Land
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Land
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Run Antic
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+
+FalseKnight19.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Run
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Run
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+Run Antic
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
+
+FalseKnight20.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Run
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Run
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+Run
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+
+FalseKnight21.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Stun Recover
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+Stun Recover
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 2
+Stun Recover
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 3
+
+FalseKnight22.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Stun Recover
+  rotate: false
+  xy: 2, 1278
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 4
+Stun Recover
+  rotate: false
+  xy: 2, 640
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 5
+Turn
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 0
+
+FalseKnight23.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Turn
+  rotate: false
+  xy: 2, 2
+  size: 1095, 636
+  orig: 1095, 636
+  offset: 0, 0
+  index: 1
