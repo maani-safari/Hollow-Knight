@@ -314,5 +314,4 @@ Inspired by **Hollow Knight** by Team Cherry.
 Built with **LibGDX**, **LWJGL**, and **gdx-liftoff**.
 
 > An unofficial educational fan project inspired by Hollow Knight.
-> This project is not affiliated with or endorsed by Team Cherry.
 
